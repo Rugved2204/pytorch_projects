@@ -1,2 +1,2 @@
-This repositroy contains some projects made using pytorch
+This repository contains projects made using pytorch
 
